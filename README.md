@@ -1,7 +1,7 @@
 # 🚀 Full Stack User Registration System  
 
 This is a **Spring Boot Full User Registration CRUD System** built with **Next.js** and **MySQL**.  
-The project leverages **Java/Spring Boot**, **React (Next.js)**, **Tailwind CSS**, and **Axios** for seamless API communication.
+The project leverages **Java/Spring Boot**, **React (Next.js)**, **Tailwind CSS**, and **Axios** for seamless API communication. This is My Startup Projects, There will be So many Issues , You can clone it and fix it
 
 ---
 
