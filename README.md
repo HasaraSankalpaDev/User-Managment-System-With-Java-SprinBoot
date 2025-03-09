@@ -1,22 +1,28 @@
-🔄:
-This Is My Spring Boot Very Simple Crud System . I Used to develope this Mainly Java/SpringBoot React JS ,  Taildiwnd CSS and MySQL Database and Some Node Js.
-## Getting Started ♒:
+# 🚀 Full Stack User Registration System  
 
-First, clone this to your system and run the development server:
+This is a **Spring Boot Full User Registration CRUD System** built with **Next.js** and **MySQL**.  
+The project leverages **Java/Spring Boot**, **React (Next.js)**, **Tailwind CSS**, and **Axios** for seamless API communication.
 
-For Front End 
+---
+
+## 🛠 Technologies Used  
+
+### 📌 Frontend  
+- **Framework:** Next.js (React)  
+- **Styling:** Tailwind CSS  
+- **API Handling:** Axios  
+
+### 📌 Backend  
+- **Language:** Java  
+- **Framework:** Spring Boot  
+- **Database:** MySQL  
+
+---
+
+## ⚡ Getting Started  
+
+### 🔹 Clone the Repository  
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-You Can run the backedn using intellij idea in localhost:8080
-
-
-## Thank You ! :zap:
+git clone https://github.com/yourusername/your-repository.git
+cd your-repository
